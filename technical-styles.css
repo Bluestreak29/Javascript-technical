@@ -1,0 +1,53 @@
+
+          body {
+  background-color: lightyellow;
+}
+
+@media screen and (min-width: 500px) {
+  body {
+    background-color: cyan;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+  }
+}
+
+code {
+  background-color: lightgray; 
+}
+
+#navbar {
+  border: solid 1px;
+  width: 250px;
+float: left;
+display: inline;
+margin: auto;
+padding: 0;
+margin-right: 15px;
+}
+
+
+.nav-link {
+  
+  font-size: 18px;
+  margin: auto;
+padding: 3;
+
+}
+
+
+header {
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+ul {
+      list-style-type: none
+}
+
+#documentation {
+     margin-right: 3;
+}
+
+
+   
